@@ -37,8 +37,8 @@ import (
 	"flag"
 	"fmt"
 
-	"m7s.live/engine/v4"
-	"m7s.live/engine/v4/util"
+	"https://github.com/LuckyCodeMonkey/monibuca-engine"
+	"https://github.com/LuckyCodeMonkey/monibuca-engine/util"
 
 	_ "m7s.live/plugin/logrotate/v4"
 	_ "m7s.live/plugin/debug/v4"
